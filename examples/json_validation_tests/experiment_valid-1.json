@@ -149,7 +149,7 @@
         "objectTitle": "Example array experiment title",
         "schemaDescriptor": {
             "commonSchemaVersion": "0.0.0",
-            "describedBySchemaUri": "https://github.com/EbiEga/ega-metadata-schema/tree/main/schemas/EGA.experiment.json",
+            "describedBySchemaUri": "https://github.com/M-casado/ega-metadata-schema/tree/main/schemas/EGA.experiment.json",
             "objectSchemaVersion": "0.0.0",
             "objectType": "experiment"
         },
@@ -211,6 +211,6 @@
         ]
     },
     "schema": {
-        "$ref": "https://raw.githubusercontent.com/M-casado/ega-metadata-schema/v1.0.0/schemas/EGA.experiment.json"
+        "$ref": "https://raw.githubusercontent.com/M-casado/ega-metadata-schema/main/schemas/EGA.experiment.json"
     }
 }

@@ -42,12 +42,12 @@
         },
         "schemaDescriptor": {
             "commonSchemaVersion": "0.0.0",
-            "describedBySchemaUri": "https://github.com/EbiEga/ega-metadata-schema/tree/main/schemas/EGA.protocol.json",
+            "describedBySchemaUri": "https://github.com/M-casado/ega-metadata-schema/tree/main/schemas/EGA.protocol.json",
             "objectSchemaVersion": "0.0.0",
             "objectType": "protocol"
         }
     },
     "schema": {
-        "$ref": "https://raw.githubusercontent.com/M-casado/ega-metadata-schema/v1.0.0/schemas/EGA.protocol.json"
+        "$ref": "https://raw.githubusercontent.com/M-casado/ega-metadata-schema/main/schemas/EGA.protocol.json"
     }
 }

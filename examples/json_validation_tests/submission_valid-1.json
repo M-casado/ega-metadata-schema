@@ -39,7 +39,7 @@
         ],
         "schemaDescriptor": {
             "commonSchemaVersion": "0.0.0",
-            "describedBySchemaUri": "https://github.com/EbiEga/ega-metadata-schema/tree/main/schemas/EGA.submission.json",
+            "describedBySchemaUri": "https://github.com/M-casado/ega-metadata-schema/tree/main/schemas/EGA.submission.json",
             "objectSchemaVersion": "0.0.0",
             "objectType": "submission"
         },
@@ -62,6 +62,6 @@
         ]
     },
     "schema": {
-        "$ref": "https://raw.githubusercontent.com/M-casado/ega-metadata-schema/v1.0.0/schemas/EGA.submission.json"
+        "$ref": "https://raw.githubusercontent.com/M-casado/ega-metadata-schema/main/schemas/EGA.submission.json"
     }
 }

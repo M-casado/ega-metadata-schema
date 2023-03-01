@@ -113,12 +113,12 @@
         ],
         "schemaDescriptor": {
             "commonSchemaVersion": "0.0.0",
-            "describedBySchemaUri": "https://github.com/EbiEga/ega-metadata-schema/tree/main/schemas/EGA.sample.json",
+            "describedBySchemaUri": "https://github.com/M-casado/ega-metadata-schema/tree/main/schemas/EGA.sample.json",
             "objectSchemaVersion": "0.0.0",
             "objectType": "sample"
         }
     },
     "schema": {
-        "$ref": "https://raw.githubusercontent.com/M-casado/ega-metadata-schema/v1.0.0/schemas/EGA.sample.json"
+        "$ref": "https://raw.githubusercontent.com/M-casado/ega-metadata-schema/main/schemas/EGA.sample.json"
     }
 }
