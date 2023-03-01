@@ -1,4 +1,4 @@
-# EGA Metadata Schema
+# TEST - EGA Metadata Schema
 ## Overview
 This repository is intended to be the **source of truth for EGA's metadata schemas**. For data to be submitted to the [EGA-archive](https://ega-archive.org/submission/quickguide), apart from the data files themselves (_e.g._ `.bam` files), you will need an **appropriate metadata architecture** both describing your data (_e.g._ what sequencing technology was used) and the underlying relationships 
 between its objects (_e.g._ what experiments encompass which samples).
